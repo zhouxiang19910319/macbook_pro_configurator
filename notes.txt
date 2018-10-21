@@ -1,0 +1,12 @@
+bottom nav bar height: 130px
+
+bottom right div size: 348x99
+
+button font settings:
+ pro text regular
+
+ 17 25 0
+ size lineheight letter spcaing
+
+Price number settings:
+ 
