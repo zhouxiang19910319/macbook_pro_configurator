@@ -12,8 +12,8 @@
 
 ## Challenges in this project
 * How to use custom fonts in your webpage.
-* How to use jQuery/javascript to manipulate the dom.
-*
+* How to use jQuery/javascript to manipulate the DOM.
+* 
 
 
 
@@ -21,6 +21,5 @@
 
 * Make it responsive? (Apple's site is not)
 * Add in the full page image gallery linked to the Macbook Pro image
-* Get rid of the middle scroll bar
-* Find out how they did the 1st join scroll then separate scroll effect
+* Cards section do not look exactly like the apple page. They divided those cards into many sub-divs and then positioned the texts in it.
 

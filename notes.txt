@@ -1,3 +1,9 @@
+* Get rid of the middle scroll bar
+* Find out how they did the 1st join scroll then separate scroll effect
+
+
+
+
 bottom nav bar height: 130px
 
 bottom right div size: 348x99
@@ -9,4 +15,5 @@ button font settings:
  size lineheight letter spcaing
 
 Price number settings:
- 
+
+
